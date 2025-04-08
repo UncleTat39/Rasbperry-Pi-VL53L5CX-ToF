@@ -1,7 +1,7 @@
 # Rasbperry-Pi-VL53L5CX-ToF
 
 
-Rasbperry Pi  use VL53L5CX ToF to measure the distance.
+Rasbperry Pi 5 use VL53L5CX ToF to measure the distance.
 
 
 **Use code for watch this map**
